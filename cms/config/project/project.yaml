@@ -1,4 +1,4 @@
-dateModified: 1659389200
+dateModified: 1681740543
 email:
   fromEmail: andrew@nystudio107.com
   fromName: Craft
@@ -25,7 +25,7 @@ system:
   live: true
   name: 'Craft Starter Vite'
   retryDuration: 60
-  schemaVersion: 4.0.0.9
+  schemaVersion: 4.4.0.4
   timeZone: America/New_York
 users:
   allowPublicRegistration: false
